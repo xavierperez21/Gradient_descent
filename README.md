@@ -18,6 +18,7 @@ For this project we're going to optimize a cost function that is predefined for 
 ![cost_function](https://i.imgur.com/zlbwwH7m.png "cost_function")
 
 If we plot the function in top view, we can see how we are optimizing the parameters until we reach the local minimum (deep zone in blue).
+
 ![optimization](https://i.imgur.com/Dr9fUvwm.png "optimization")
 ## Libraries Used
 - Numpy
