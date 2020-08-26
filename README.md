@@ -28,7 +28,7 @@ If we plot the function in top view, we can see how we are optimizing the parame
 ## Project Online
 You can see the project working online [here](https://colab.research.google.com/drive/1illDzFmzG22QwfvGYtj1_Mq4IM4QBYa6?usp=sharing "here")
 
-Once you get there click on the "**Run**" label, and then in the "**Run all**" label and you can see the project working. Go to the last line :)
+Once you get there click on the "**Runtime**" option, and then in the "**Run all**" option and you can see the project working. Go to the last line :)
 
 ![](https://i.imgur.com/5x809Tol.png)
 
